@@ -1,0 +1,51 @@
+:root {
+    --main-width: 900px;
+}
+
+a {
+    color: #7B68EE;
+}
+
+a:hover {
+    color: #6A5ACD;
+}
+
+.post-content strong {
+    color: #7B68EE;
+}
+
+.logo a {
+    font-size: 32px;
+}
+
+#menu a {
+    font-size: 28px;
+}
+
+.post-content p:has(+ .paper-links) {
+    margin-bottom: 0.35rem;
+}
+
+.paper-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    align-items: baseline;
+    margin-top: 0.35rem;
+}
+
+.paper-links details {
+    display: inline;
+    text-align: justify;
+}
+
+.paper-links summary,
+.paper-links a,
+.paper-links a:link,
+.paper-links a:visited,
+.paper-links a:hover,
+.paper-links a:focus {
+    color: inherit !important;
+    text-decoration: none !important;
+    cursor: pointer;
+}

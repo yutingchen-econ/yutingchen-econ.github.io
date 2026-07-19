@@ -1,24 +1,10 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
-aliases: 
-    - /courses/course2/slides4.pdf
-    - /courses/course2/slides1.pdf
-    - /courses/course2/slides3.pdf
-    - /courses/course2/slides2.pdf
-    - /courses/course2/notes3.pdf
-    - /courses/course2/notes4.pdf
-    - /courses/course2/ps3.pdf
-    - /courses/course2/ps4.pdf
-    - /courses/course1/quiz1.pdf
-    - /courses/course1/quiz2.pdf
-    - /courses/course2/quiz3.pdf
-    - /courses/course2/quiz4.pdf
-    - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+title: "Principles of Microeconomics"
+date: 2024-08-19
+tags: ["ECON 251","Microeconomics","Undergraduate"]
+author: "Yuting Chen"
+description: "ECON 251: Principles of Microeconomics, taught at Purdue University." 
+summary: "ECON 251: Principles of Microeconomics, taught at Purdue University in Summer 2024 and Fall 2024." 
 cover:
     image: "course1.png"
     alt: "Villa of Reduced Circumstances"
@@ -30,6 +16,11 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+
+##### Syllabus
+
++ [Syllabus (Fall 2024, in-person)](ECON251_Fall24_YC_Syllabus_1110.pdf)
++ [Syllabus (Summer 2024, online)](ECON251_Summer24_YC.pdf)
 
 ## Introduction
 
