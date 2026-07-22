@@ -1,5 +1,6 @@
 ---
 title: "Fun facts about me"
+linkTitle: "About Me"
 date: 2026-07-18
 hidemeta: true
 description: "A few fun facts about Yuting Chen."

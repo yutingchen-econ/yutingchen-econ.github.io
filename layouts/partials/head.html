@@ -10,9 +10,9 @@
 {{- /* Title */}}
 <title>
   {{- if eq .Kind "404" -}}
-    404: Page not found | {{ .Site.Title }}
+    {{ .Site.Title }} | 404: Page not found
   {{- else if and (not .IsHome) .Title -}}
-    {{ .Title }} | {{ .Site.Title }}
+    {{ .Site.Title }} | {{ .LinkTitle }}
   {{- else -}}
     {{ .Site.Title }}
   {{- end -}}
