@@ -3,31 +3,9 @@ title: "Research"
 description: ""
 ---
 
-## Publications
+## Doctoral Research
 
-<div style="margin-bottom: 1.75rem;">
-
-<span style="color: #6A5ACD;">The Predictive Role of Caregiver's Language Richness in Child Development Outcomes in Rural China</span> (with [Jingjing Gao](https://www.researchgate.net/profile/Jingjing-Gao-2), [Tianyi Wang](https://www.researchgate.net/profile/Tianyi-Wang-62), [Yang He](https://www.researchgate.net/profile/Yang-He-21), [Chengfang Liu](https://scholar.google.com/citations?user=1GjXI_QAAAAJ), [Scott Rozelle](https://scholar.google.com/citations?user=WLxBVGAAAAAJ), and [Renfu Luo](https://scholar.google.com/citations?user=aB_VoUkAAAAJ)) <em>Early Childhood Research Quarterly</em>, 65, 306–316 (2023)  
-<div class="paper-links">
-<details><summary>[Abstract]</summary> There is rich literature on the predictive role of the caregiver's language richness in child development outcomes during caregiver-child interaction. However, it is unclear whether this is true in rural China, where many young children are still not developing to their fullest potential. Our study supplements the current evidence in rural China by answering three questions. First, is the rural caregiver's language richness associated with child development outcomes? Second, do different child characteristics, caregiver characteristics, and household poverty status affect the relationship between caregiver language richness and early child development outcomes? Third, does the caregiver's language suitability moderate the association between language richness and child development outcomes? We observed and recorded 10-minute-long videos of 591 rural children aged 6–30 months and their primary caregiver dyads in a free toy play session and collected their social-demographic information. Trained coders coded videotaped interactions to obtain measurements of the caregiver's language richness and suitability. Children were assessed for cognitive, language, motor, and social-emotional development. A multivariate linear regression model adjusted for covariates was used to estimate the association between the caregiver's language richness and child development outcomes. Interaction terms were then added to the adjusted model to explore the moderating role of caregivers' language suitability, child characteristics, caregiver characteristics, and household poverty status. The caregiver's language richness is positively associated with the child's cognitive, language, motor, and social-emotional development. The association is more pronounced for children who are boys, in later toddlerhood, or from registered poverty households. In addition, we found that the caregiver's language suitability could enhance the association between language richness and child development outcomes.</details>
-<details><summary><a href="https://doi.org/10.1016/j.ecresq.2023.07.007">[DOI]</a></summary></details>
-</div>
-
-</div>
-
-<div style="margin-bottom: 1.75rem;">
-
-<span style="color: #6A5ACD;">Relationships Between Parenting Skills and Early Childhood Development in Rural Households in Western China</span> (with [Jingdong Zhong](https://www.researchgate.net/scientific-contributions/Jingdong-Zhong-2167413777), [Yang He](https://www.researchgate.net/profile/Yang-He-21), and [Renfu Luo](https://scholar.google.com/citations?user=aB_VoUkAAAAJ)) <em>International Journal of Environmental Research and Public Health</em>, 17(5), 1506 (2020)  
-<div class="paper-links">
-<details><summary>[Abstract]</summary> This paper empirically investigates the relationships between caregivers' parenting skills and early cognitive, language, motor, and social-emotional development of children aged 6–24 months. The study is based on data from a survey conducted in 100 villages in a typical poor rural area in western China. A total of 1715 households were enrolled in the study. In the study, Parent and Family Adjustment Scales (PAFAS), Bayley Scales of Infant Development version III (BSID-III), and a socioeconomic questionnaire were used to measure caregiver's parenting skills, child's development outcomes, and socioeconomic characteristics in sample households, respectively. Multivariate regression was used to estimate the relationship between a caregiver's parenting skills and the child's development outcomes. The results show that, first, parenting skills are positively and significantly associated with children's cognitive, language, motor, and social-emotional development, and the link between parenting skills and social-emotional development is the strongest; second, the correlation between parenting skills and development outcomes varies across socioeconomic characteristics and parenting skill dimensions. The results provide evidence for the relationship between parenting skills and early childhood development in rural households in western China. Our findings also suggest that interventions aimed at improving caregivers' parenting skills during the early stages are necessary for human capital development in rural China.</details>
-<details><summary><a href="https://doi.org/10.3390/ijerph17051506">[DOI]</a></summary></details>
-</div>
-
-</div>
-
----
-
-## Working Papers
+### Working Papers
 
 <div style="margin-bottom: 2rem;">
 
@@ -61,21 +39,7 @@ description: ""
 
 </div>
 
-<div style="margin-bottom: 2rem;">
-
-<span style="color: #6A5ACD;">Caregiver-Child Interaction Duration and Early Childhood Development: Videotaped Evidence of Home Play in Rural China</span> (with [Jingjing Gao](https://www.researchgate.net/profile/Jingjing-Gao-2), [Yang He](https://www.researchgate.net/profile/Yang-He-21), [Tianyi Wang](https://www.researchgate.net/profile/Tianyi-Wang-62), [Chengfang Liu](https://scholar.google.com/citations?user=1GjXI_QAAAAJ), and [Renfu Luo](https://scholar.google.com/citations?user=aB_VoUkAAAAJ))  
-<strong style="color: #6252BC;"><em>Best Poster Presentation of 2022 KDSA Symposium</em></strong>  
-<div class="paper-links">
-<details><summary>[Abstract]</summary> Recent studies have begun to explore the relationship between caregiver-child interaction and early childhood development in rural China. However, accurately measuring these interactions, particularly regarding their duration, presents considerable challenges. This study investigates the effects of caregiver-child interaction duration on early childhood development in rural China, analyzing 488 caregiver-child dyads through 10-minute videotaped home play. Children were assessed for cognition, language, motor, and social-emotional abilities using the Caregiver Reported Early Development Instrument (CREDI). Findings indicate that interaction durations are generally brief, particularly when the primary caregiver is the grandmother. The interaction duration was found to be a significant mediator in the relationship between caregiver type and the children's development across 4 domains. Less educated grandmothers and mothers had significantly greater disparity in interaction duration compared to more educated caregivers. Findings suggest that future interventions should emphasize increasing effective interaction duration, especially for less educated grandmothers, to improve early childhood development.</details>
-<details><summary><a href="Chen%20et%20al%20(2023%20wp).pdf">[2023 wp]</a></summary></details>
-<details><summary><a href="Chen%20et%20al%20(2022%20wp).pdf">[2022 wp]</a></summary></details>
-</div>
-
-</div>
-
----
-
-## Work in Progress
+### Work in Progress
 
 <div style="margin-bottom: 1.5rem;">
 
@@ -92,6 +56,42 @@ description: ""
 <div style="margin-bottom: 1.5rem;">
 
 <span style="color: #6A5ACD;">Behavioral Foundations of Portfolio Choice: Evidence from Information Provision, Return Autocorrelation, and Time Consistency</span> (with [Peter Hansen](https://scholar.google.com/citations?user=ED6EITQAAAAJ) and [Kaushik Vasudevan](https://kvasudevan.com/))
+
+</div>
+
+---
+
+## Pre-doctoral Research
+
+<div style="margin-bottom: 1.75rem;">
+
+<span style="color: #6A5ACD;">The Predictive Role of Caregiver's Language Richness in Child Development Outcomes in Rural China</span> (with [Jingjing Gao](https://www.researchgate.net/profile/Jingjing-Gao-2), [Tianyi Wang](https://www.researchgate.net/profile/Tianyi-Wang-62), [Yang He](https://www.researchgate.net/profile/Yang-He-21), [Chengfang Liu](https://scholar.google.com/citations?user=1GjXI_QAAAAJ), [Scott Rozelle](https://scholar.google.com/citations?user=WLxBVGAAAAAJ), and [Renfu Luo](https://scholar.google.com/citations?user=aB_VoUkAAAAJ)) <em>Early Childhood Research Quarterly</em>, 65, 306–316 (2023)  
+<div class="paper-links">
+<details><summary>[Abstract]</summary> There is rich literature on the predictive role of the caregiver's language richness in child development outcomes during caregiver-child interaction. However, it is unclear whether this is true in rural China, where many young children are still not developing to their fullest potential. Our study supplements the current evidence in rural China by answering three questions. First, is the rural caregiver's language richness associated with child development outcomes? Second, do different child characteristics, caregiver characteristics, and household poverty status affect the relationship between caregiver language richness and early child development outcomes? Third, does the caregiver's language suitability moderate the association between language richness and child development outcomes? We observed and recorded 10-minute-long videos of 591 rural children aged 6–30 months and their primary caregiver dyads in a free toy play session and collected their social-demographic information. Trained coders coded videotaped interactions to obtain measurements of the caregiver's language richness and suitability. Children were assessed for cognitive, language, motor, and social-emotional development. A multivariate linear regression model adjusted for covariates was used to estimate the association between the caregiver's language richness and child development outcomes. Interaction terms were then added to the adjusted model to explore the moderating role of caregivers' language suitability, child characteristics, caregiver characteristics, and household poverty status. The caregiver's language richness is positively associated with the child's cognitive, language, motor, and social-emotional development. The association is more pronounced for children who are boys, in later toddlerhood, or from registered poverty households. In addition, we found that the caregiver's language suitability could enhance the association between language richness and child development outcomes.</details>
+<details><summary><a href="https://doi.org/10.1016/j.ecresq.2023.07.007">[DOI]</a></summary></details>
+</div>
+
+</div>
+
+<div style="margin-bottom: 1.75rem;">
+
+<span style="color: #6A5ACD;">Relationships Between Parenting Skills and Early Childhood Development in Rural Households in Western China</span> (with [Jingdong Zhong](https://www.researchgate.net/scientific-contributions/Jingdong-Zhong-2167413777), [Yang He](https://www.researchgate.net/profile/Yang-He-21), and [Renfu Luo](https://scholar.google.com/citations?user=aB_VoUkAAAAJ)) <em>International Journal of Environmental Research and Public Health</em>, 17(5), 1506 (2020)  
+<div class="paper-links">
+<details><summary>[Abstract]</summary> This paper empirically investigates the relationships between caregivers' parenting skills and early cognitive, language, motor, and social-emotional development of children aged 6–24 months. The study is based on data from a survey conducted in 100 villages in a typical poor rural area in western China. A total of 1715 households were enrolled in the study. In the study, Parent and Family Adjustment Scales (PAFAS), Bayley Scales of Infant Development version III (BSID-III), and a socioeconomic questionnaire were used to measure caregiver's parenting skills, child's development outcomes, and socioeconomic characteristics in sample households, respectively. Multivariate regression was used to estimate the relationship between a caregiver's parenting skills and the child's development outcomes. The results show that, first, parenting skills are positively and significantly associated with children's cognitive, language, motor, and social-emotional development, and the link between parenting skills and social-emotional development is the strongest; second, the correlation between parenting skills and development outcomes varies across socioeconomic characteristics and parenting skill dimensions. The results provide evidence for the relationship between parenting skills and early childhood development in rural households in western China. Our findings also suggest that interventions aimed at improving caregivers' parenting skills during the early stages are necessary for human capital development in rural China.</details>
+<details><summary><a href="https://doi.org/10.3390/ijerph17051506">[DOI]</a></summary></details>
+</div>
+
+</div>
+
+<div style="margin-bottom: 1.75rem;">
+
+<span style="color: #6A5ACD;">Caregiver-Child Interaction Duration and Early Childhood Development: Videotaped Evidence of Home Play in Rural China</span> (with [Jingjing Gao](https://www.researchgate.net/profile/Jingjing-Gao-2), [Yang He](https://www.researchgate.net/profile/Yang-He-21), [Tianyi Wang](https://www.researchgate.net/profile/Tianyi-Wang-62), [Chengfang Liu](https://scholar.google.com/citations?user=1GjXI_QAAAAJ), and [Renfu Luo](https://scholar.google.com/citations?user=aB_VoUkAAAAJ))  
+<strong style="color: #6252BC;"><em>Best Poster Presentation of 2022 KDSA Symposium</em></strong>  
+<div class="paper-links">
+<details><summary>[Abstract]</summary> Recent studies have begun to explore the relationship between caregiver-child interaction and early childhood development in rural China. However, accurately measuring these interactions, particularly regarding their duration, presents considerable challenges. This study investigates the effects of caregiver-child interaction duration on early childhood development in rural China, analyzing 488 caregiver-child dyads through 10-minute videotaped home play. Children were assessed for cognition, language, motor, and social-emotional abilities using the Caregiver Reported Early Development Instrument (CREDI). Findings indicate that interaction durations are generally brief, particularly when the primary caregiver is the grandmother. The interaction duration was found to be a significant mediator in the relationship between caregiver type and the children's development across 4 domains. Less educated grandmothers and mothers had significantly greater disparity in interaction duration compared to more educated caregivers. Findings suggest that future interventions should emphasize increasing effective interaction duration, especially for less educated grandmothers, to improve early childhood development.</details>
+<details><summary><a href="Chen%20et%20al%20(2023%20wp).pdf">[2023 wp]</a></summary></details>
+<details><summary><a href="Chen%20et%20al%20(2022%20wp).pdf">[2022 wp]</a></summary></details>
+</div>
 
 </div>
 
