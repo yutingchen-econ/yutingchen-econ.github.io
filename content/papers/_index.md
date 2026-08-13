@@ -23,7 +23,7 @@ description: ""
 <strong style="color: #6252BC;"><em>Under journal review</em></strong>  
 <div class="paper-links">
 <details><summary>[Abstract]</summary> In a coarse correlated equilibrium, individuals have an incentive to delegate to a device that selects outcomes according to a known probability distribution. This delegation is made before the specific outcome is selected, analogous to a commitment to allow an autonomous vehicle to take actions on the human driver's behalf. This experiment studies individuals' willingness to delegate to such correlating devices across a range of payoff and correlating device treatments. These include games with multiple Pareto-rankable pure strategy equilibria that differ in their associated risk, as well as games without a pure strategy equilibrium in which a correlating device can raise expected payoffs relative to the unique mixed strategy equilibrium. We find that subjects seldom delegate their decision-making authority, and the rate of committing to the device decreases over time. Average earnings are significantly higher when both parties commit to it than in cases without a device. However, in games we study with multiple pure strategy Nash equilibria, one-sided commitment yields substantially lower average earnings. Future device design for connected autonomous vehicles should consider policies to promote mutual adoption.</details>
-<details><summary><a href="Coarse_Correlated_Equilibrium_260720.pdf">[2026wp]</a></summary></details>
+<details><summary><a href="Coarse_Correlated_Equilibrium_260720.pdf">[2026 wp]</a></summary></details>
 </div>
 
 </div>
