@@ -51,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: Yuting Chen
-          subtitle: "I am a PhD candidate in Economics at Purdue University. My research focuses on **Behavioral and Experimental Economics**, with a particular interest in **social dilemma** and **coordination**. I'm also affiliated to the Vernon Smith Experimental Economics Laboratory [(VSEEL)](https://business.purdue.edu/centers/vseel/) at Purdue University.\n\nI will be a candidate for the 2026-2027 Job Market. My Committee members are [Timothy Cason](https://sites.google.com/view/tim-cason)(co-chair), [David Gill](https://gill-david.github.io/)(co-chair), [Yaroslav Rosokha](https://web.ics.purdue.edu/~yrosokha), and [Brian Roberson](https://business.purdue.edu/faculty/brobers/)."
+          subtitle: "I am a PhD candidate in Economics at Purdue University. My research focuses on **Behavioral and Experimental Economics**, with a particular interest in **social dilemma** and **coordination**. I'm also affiliated to the Vernon Smith Experimental Economics Laboratory [(VSEEL)](https://business.purdue.edu/centers/vseel/) at Purdue University.\n\nI'm on the 2026-2027 Job Market. My Committee members are [Timothy Cason](https://sites.google.com/view/tim-cason)(co-chair), [David Gill](https://gill-david.github.io/)(co-chair), [Yaroslav Rosokha](https://web.ics.purdue.edu/~yrosokha), and [Brian Roberson](https://business.purdue.edu/faculty/brobers/)."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160

@@ -1,5 +1,7 @@
 :root {
     --main-width: 900px;
+    /* base font size for the home/profile page */
+    --homesize: 19px;
 }
 
 a {
@@ -48,4 +50,78 @@ a:hover {
     color: inherit !important;
     text-decoration: none !important;
     cursor: pointer;
+}
+
+/* ---- Home page: photo on the left (~30%), text on the right (~70%) ---- */
+.main .profile {
+    padding: var(--gap) 0;
+}
+
+.profile .profile_inner {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 40px;
+    width: 100%;
+}
+
+.profile .profile-photo {
+    flex: 0 0 30%;
+    max-width: 30%;
+    padding-top: 6px;
+}
+
+.profile .profile-photo img {
+    width: 100%;
+    height: auto;
+    max-width: none;
+}
+
+.profile .profile-text {
+    flex: 1 1 70%;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.profile .profile-text > span {
+    font-size: var(--homesize);
+    line-height: 1.6;
+}
+
+.profile .profile-text > span p + p {
+    margin-top: 0.9em;
+}
+
+.profile .profile_inner h1 {
+    font-size: 2.8rem;
+    margin-bottom: 4px;
+}
+
+.profile .social-icons a svg {
+    height: 30px;
+    width: 30px;
+}
+
+.profile .button {
+    font-size: 1.05rem;
+}
+
+/* Stack on narrow screens */
+@media (max-width: 768px) {
+    .profile .profile_inner {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+
+    .profile .profile-photo {
+        flex: 0 0 auto;
+        max-width: 220px;
+    }
+
+    .profile .profile_inner h1 {
+        font-size: 2.2rem;
+    }
 }
