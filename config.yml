@@ -13,7 +13,7 @@ taxonomies:
 menu:
     main:
         - name: CV
-          url: cv/
+          url: /yuting-chen-cv-2609.pdf
           weight: 1
         - name: Research
           url: papers/
@@ -57,7 +57,7 @@ params:
           imageHeight: 160
           buttons:
             - name: CV
-              url: cv/
+              url: /yuting-chen-cv-2609.pdf
             - name: Research
               url: papers/
             - name: Teaching

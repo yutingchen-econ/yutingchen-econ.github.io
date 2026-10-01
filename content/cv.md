@@ -5,4 +5,6 @@ hidemeta: true
 description: "Yuting Chen's curriculum vitae."
 ---
 
-<iframe src="/Yuting%20Chen%20CV%202609.pdf" width="100%" height="1000" style="border:0;"></iframe>
+<script>window.location.replace("/yuting-chen-cv-2609.pdf");</script>
+
+If you are not redirected, [open the CV (PDF)](/yuting-chen-cv-2609.pdf).
