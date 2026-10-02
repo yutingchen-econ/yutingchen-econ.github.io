@@ -58,15 +58,6 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          buttons:
-            - name: CV
-              url: /yuting-chen-cv-2610-academia.pdf
-            - name: Research
-              url: papers/
-            - name: Teaching
-              url: courses/
-            - name: About Me
-              url: about/
 
     socialIcons:
         - name: Email
