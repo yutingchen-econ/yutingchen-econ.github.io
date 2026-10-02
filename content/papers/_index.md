@@ -5,17 +5,19 @@ description: ""
 
 ## Doctoral Research
 
-### Working Papers
+### Job Market Paper
 
 <div style="margin-bottom: 2rem;">
 
-<span style="color: #6A5ACD;">Markov Perfect Equilibria in a Dynamic Stag-Hunt Game: An Experimental Design for Minority Survival</span>  
-<strong style="color: #6252BC;"><em>* Job Market Paper</em></strong> (Paper draft coming up)  
+<span style="color: #6A5ACD;">Sustaining Coordination in a Dynamic Stag-Hunt Game</span>  
+(Paper draft coming up)  
 <div class="paper-links">
-<details><summary>[Abstract]</summary> Coordination in one-shot stag-hunt games is relatively easy to achieve. In many real-world settings, however, coordination must be sustained over time in the presence of outside shocks. One such example is the preservation of minority culture. This paper studies coordination in a dynamic stag-hunt game with a possible outside shock. A state variable tracks the number of consecutive rounds in which all members coordinate on the risky action. If the threshold (the minimum required number of consecutive rounds of coordination) is not reached, all players incur a net loss in the terminal round, mirroring the fate of a minority culture without sufficient preservation. The model admits multiple pure and mixed Markov Perfect Equilibria (MPE), and derives dynamic basins of attraction for state-dependent strategies. The larger the dynamic basin, the more robust coordination of the risky action as the state variable approaches the threshold. I designed 2-by-2 treatments with two group sizes (small vs. large) and two static basin sizes (high vs. low). The primary analysis focuses on (1) how group size and static basin affect coordination behavior, (2) whether subjects are more likely to choose the risky action as the state variable increases, and if so, whether they prefer pure or mixed strategies, and (3) whether subjects adopt state-dependent strategies more than history-dependent ones, or both. This paper is among the first to study the basin of attraction in a dynamic stag-hunt setting.</details>
+<details><summary>[Abstract]</summary> Coordination often unfolds over time, and successful collective action can become more resilient as it is sustained. I study a dynamic stag-hunt game in which consecutive successful coordination advances a public counter toward a protection threshold, while any failure resets it. I characterize Markov Perfect Equilibria and develop a state-dependent dynamic basin of attraction that measures the strategic uncertainty under which coordination remains optimal. In a laboratory experiment that varies group size and the safe-option payoff and elicits individual choice probabilities, subjects become more willing to take the risky action as groups approach the threshold, and coordination is highly persistent once the threshold is reached. A lower safe option payoff increases coordination, while smaller groups coordinate more only when the safe option is attractive. Individual mixing is concentrated early and fades as groups progress. These results suggest that coordination depends on how past success reshapes the strategic environment.</details>
 </div>
 
 </div>
+
+### Other Working Papers
 
 <div style="margin-bottom: 2rem;">
 
