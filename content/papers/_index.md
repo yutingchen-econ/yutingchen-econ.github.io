@@ -95,10 +95,4 @@ description: ""
 
 </div>
 
-<div style="margin-bottom: 1.5rem;">
-
-<span style="color: #6A5ACD;">Online Learning During the COVID-19 Pandemic Among Primary and High School Students in Rural China</span> (with [Xuejing Shen](https://www.researchgate.net/profile/Xuejing-Shen), [Shaoping Li](https://www.researchgate.net/profile/Shaoping-Li), [Chengfang Liu](https://scholar.google.com/citations?user=1GjXI_QAAAAJ), and [Renfu Luo](https://scholar.google.com/citations?user=aB_VoUkAAAAJ))
-
-</div>
-
 ---

@@ -16,7 +16,7 @@ menu:
           url: /
           weight: 1
         - name: CV
-          url: /yuting-chen-cv-2609.pdf
+          url: /yuting-chen-cv-2610-academia.pdf
           weight: 2
         - name: Research
           url: papers/
@@ -60,7 +60,7 @@ params:
           imageHeight: 160
           buttons:
             - name: CV
-              url: /yuting-chen-cv-2609.pdf
+              url: /yuting-chen-cv-2610-academia.pdf
             - name: Research
               url: papers/
             - name: Teaching
