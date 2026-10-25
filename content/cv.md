@@ -5,6 +5,6 @@ hidemeta: true
 description: "Yuting Chen's curriculum vitae."
 ---
 
-<script>window.location.replace("/YC_CV_academia_2610.pdf");</script>
+<script>window.location.replace("/yc_cv_academia_2610.pdf");</script>
 
-If you are not redirected, [open the CV (PDF)](/YC_CV_academia_2610.pdf).
+If you are not redirected, [open the CV (PDF)](/yc_cv_academia_2610.pdf).
