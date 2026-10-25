@@ -12,8 +12,7 @@ description: ""
 <span style="color: #6A5ACD;">Sustaining Coordination in a Dynamic Stag-Hunt Game</span>  
 <div class="paper-links">
 <details><summary>[Abstract]</summary> Many collective goals are secured only after sustained coordination, and a single failure can erase accumulated progress. In my dynamic stag-hunt game, consecutive successful coordination advances a public state toward a protection threshold; any failure resets it, and an outside shock before the threshold imposes a loss. I characterize Markov Perfect Equilibria and develop a state-dependent dynamic basin of attraction measuring how much strategic uncertainty agents can tolerate while coordination remains optimal. In an experiment varying group size and the safe payoff and eliciting choice probabilities, subjects choose the risky action more as groups approach the threshold, and coordination persists beyond it. A lower safe payoff increases coordination; smaller groups coordinate more only when the safe payoff is high. Post-failure behavior differs from initial behavior in only two of the four treatments, and in opposite directions. Individual mixing is common initially and fades with progress and experience.</details>
-<details><summary><a href="/JMP_1017_main.pdf">[Main paper]</a></summary></details>
-<details><summary><a href="/JMP_1017_app.pdf">[Appendix]</a></summary></details>
+<details><summary><a href="/YC_Job%20Market%20Paper_1017.pdf">[2026 wp]</a></summary></details>
 </div>
 
 </div>

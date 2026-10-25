@@ -16,7 +16,7 @@ menu:
           url: /
           weight: 1
         - name: CV
-          url: /yuting-chen-cv-2610-academia.pdf
+          url: /YC_CV_academia_2610.pdf
           weight: 2
         - name: Research
           url: papers/
