@@ -15,12 +15,15 @@ Favorite book: [*Dream of the Red Chamber*](https://en.wikipedia.org/wiki/Dream_
 3. **[F45](https://f45training.com/) Fighter:**  
 Attended 150+ [F45 group fitness classes](https://www.purdue.edu/recwell/fitness-wellness/fitness/group-x/f45.php) at Purdue RecWell and counting.
 
+4. **Lego Builder:**  
+Lego is my go-to stress reliever and longtime companion.
+
 ---
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; justify-content: center;">
-<img src="three-gorges.jpg" alt="On a cruise through the Three Gorges" style="width: 140px; border-radius: 8px;">
+<img src="lego.jpg" alt="Lego buildings on a sunny porch" style="height: 160px; border-radius: 8px;">
 <img src="hogwarts.jpg" alt="At the Wizarding World of Harry Potter" style="width: 140px; border-radius: 8px;">
-<img src="presenting.jpg" alt="Presenting research at a conference" style="height: 160px; border-radius: 8px;">
 <img src="f45-milestone.jpg" alt="Celebrating 100 F45 classes" style="width: 140px; border-radius: 8px;">
 <img src="lab.jpg" alt="At the Vernon Smith Experimental Economics Laboratory" style="width: 140px; border-radius: 8px;">
+<img src="presenting.jpg" alt="Presenting research at a conference" style="height: 160px; border-radius: 8px;">
 </div>
