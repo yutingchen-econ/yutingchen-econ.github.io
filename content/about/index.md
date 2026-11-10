@@ -7,7 +7,7 @@ description: "A few fun facts about Yuting Chen."
 ---
 
 1. **Rainstorm Terminator:**  
-Stopped a heavy rainstorm the moment I was born, hence the name "Yuting" (Yu = rain, Ting = stops).
+Stopped a heavy rainstorm the moment I was born, and my name “Yuting” (graceful as a lotus) happens to sound like “the rain stops” in Chinese.
 
 2. **Classics Lover:**  
 Favorite book: [*Dream of the Red Chamber*](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber). Nothing beats a classic in its original language.
