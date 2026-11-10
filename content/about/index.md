@@ -21,9 +21,9 @@ Lego is my go-to stress reliever and longtime companion.
 ---
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; justify-content: center;">
-<img src="lego.jpg" alt="Lego buildings on a sunny porch" style="height: 160px; border-radius: 8px;">
+<img src="lego.jpg" alt="Lego buildings on a sunny porch" style="height: 140px; border-radius: 8px; filter: brightness(0.88) saturate(0.8);">
 <img src="hogwarts.jpg" alt="At the Wizarding World of Harry Potter" style="width: 140px; border-radius: 8px;">
 <img src="f45-milestone.jpg" alt="Celebrating 100 F45 classes" style="width: 140px; border-radius: 8px;">
 <img src="lab.jpg" alt="At the Vernon Smith Experimental Economics Laboratory" style="width: 140px; border-radius: 8px;">
-<img src="presenting.jpg" alt="Presenting research at a conference" style="height: 160px; border-radius: 8px;">
+<img src="presenting.jpg" alt="Presenting research at a conference" style="height: 140px; border-radius: 8px;">
 </div>
